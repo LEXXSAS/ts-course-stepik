@@ -1,5 +1,4 @@
-> To start the project you need to run:
-
-#### On project folder
-command "node init -y" and "node install"
-after "npm start" for start project
+Typescript course from stepik
+> [!NOTE]
+> To start the project you need to run "node init -y" and "node install"
+After that "npm start"
